@@ -72,22 +72,22 @@ npm start
 
 ## Screenshots
 ### Login Page
-![Login Page](Demo_screenshot\login.png)
+![Login Page](https://github.com/user-attachments/assets/960da33b-3885-40c2-9861-6de761e343bb)
 
 ### Chat Interface
-![Chat Interface](Demo_screenshot\chat_interface.png)
+![Chat Interface](https://github.com/user-attachments/assets/7455bbb0-2315-4749-8f12-6a9ee27f766a)
 
 ### User Profile
-![User Profile](Demo_screenshot\profile.png)
+![User Profile](https://github.com/user-attachments/assets/d119bf98-2532-4728-b56b-3cdd7c0c72e8)
 
 ### New Chat
-![New Chat](Demo_screenshot\newchat.png)
+![New Chat](https://github.com/user-attachments/assets/bb99ce2a-0c15-43e5-8aa7-29d038172cee)
 
 ### Create a Group
-![Create a Group](Demo_screenshot\Create_group.png)
+![Create a Group](https://github.com/user-attachments/assets/ae66720a-c0cf-45f4-a422-31823e800cf2)
 
 ### Group Detail
-![Group Detail](Demo_screenshot\Group_detail.png)
+![Group Detail](https://github.com/user-attachments/assets/0fe07cae-c699-4244-be14-591a60955262)
 
 
 
